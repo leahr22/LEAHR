@@ -1,0 +1,8 @@
+{
+  "token": "DISCORD_BOT_TOKEN",
+  "clientId": "BOT_ID",
+  "guildId": "SUNUCU_ID",
+  "panelChannelId": "PANELİN_ATILACAĞI_KANAL_ID",
+  "ticketCategoryId": "TİCKET_KATEGORİ_ID",
+  "rolesToMention": ["DESTEK_ROL_ID"]
+}
