@@ -1,8 +1,8 @@
 {
-  "token": "DISCORD_BOT_TOKEN",
-  "clientId": "BOT_ID",
-  "guildId": "SUNUCU_ID",
-  "panelChannelId": "PANELİN_ATILACAĞI_KANAL_ID",
-  "ticketCategoryId": "TİCKET_KATEGORİ_ID",
-  "rolesToMention": ["DESTEK_ROL_ID"]
+  "token": "MTM2MzE1MTY3NDE1NTM0MDAxOA.GNUcK8.16cGkvVcEk8r-x8ho6voumtshij3WDcRSFzt4k",
+  "clientId": "1363151674155340018",
+  "guildId": "1096804873393156199",
+  "panelChannelId": "1363133234472423655",
+  "ticketCategoryId": "1363202459555729577",
+  "rolesToMention": ["1096804873435086940"]
 }
